@@ -1,0 +1,9 @@
+carro
+casa
+celular
+computador
+relogio
+apartamento
+onibus
+treem
+televisao

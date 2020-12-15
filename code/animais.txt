@@ -1,0 +1,13 @@
+cachorro
+gato
+elefante
+leao
+hiena
+jacare
+crocodilo
+macaco
+porco
+galinha
+galo
+pato
+ganso
